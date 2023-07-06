@@ -1,1 +1,3 @@
 # student_mental_health
+
+The Student Mental Health Analysis project utilizes Python, along with matplotlib, seaborn, and pandas, to explore and analyze student mental health. Through exploratory data analysis (EDA), the project investigates correlations between mental well-being, academic performance, lifestyle choices, and socio-demographic factors. The results are presented visually, highlighting key findings and actionable insights. This project aims to provide valuable information for educators and mental health professionals to develop effective support systems and interventions to improve student mental health.
