@@ -1,5 +1,7 @@
 # Student Mental Health Analysis - README
 
+### [Youtube video link](https://youtu.be/rytsuy1FUlE?si=Eci8FevyihFzMEwd)
+
 ## Overview
 
 This Python project focuses on analyzing the mental health status of college students, particularly looking into anxiety, depression, and panic attacks. The aim is to understand the prevalence of these issues and their impact on students' academic performance and well-being.
